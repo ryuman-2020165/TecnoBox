@@ -1,0 +1,47 @@
+#productosPrincipal img {
+    width: 28%;
+    padding: 20px;
+}
+
+
+
+#productosPrincipal{
+    
+    text-align: center;
+}
+
+#productosPrincipal h3{
+    display: table-cell;
+    
+   
+}
+
+#productosPrincipal .texto1{
+    padding-left: 480px;
+}
+#productosPrincipal .texto2{
+    padding-left: 50px;
+}
+
+
+#productosPrincipal .precio1{
+    padding-left: 600px;
+}
+#productosPrincipal .precio2{
+    padding-left: 270px;
+}
+
+
+#tituloCategoria{
+    text-align: center
+
+}
+
+
+.zoom{
+    transition: transform .2s;
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="microchip" unicode="&#xf2db;" d="M107 136v-72h-62q-9 0-9 9v9h-27q-9 0-9 9v18q0 9 9 9h27v9q0 9 9 9h62z m0 143v-72h-62q-9 0-9 9v9h-27q-9 0-9 9v18q0 9 9 9h27v9q0 9 9 9h62z m0 142v-71h-62q-9 0-9 9v9h-27q-9 0-9 9v18q0 9 9 9h27v9q0 8 9 8h62z m0 143v-71h-62q-9 0-9 9v9h-27q-9 0-9 9v18q0 8 9 8h27v9q0 9 9 9h62z m0 143v-71h-62q-9 0-9 9v9h-27q-9 0-9 9v17q0 9 9 9h27v9q0 9 9 9h62z m607 89v-821q0-22-15-38t-38-16h-465q-22 0-37 16t-16 38v821q0 23 16 38t37 16h465q22 0 38-16t15-38z m143-687v-18q0-9-9-9h-27v-9q0-9-8-9h-63v72h63q8 0 8-9v-9h27q9 0 9-9z m0 143v-18q0-9-9-9h-27v-9q0-9-8-9h-63v72h63q8 0 8-9v-9h27q9 0 9-9z m0 143v-18q0-9-9-9h-27v-9q0-9-8-9h-63v71h63q8 0 8-8v-9h27q9 0 9-9z m0 143v-18q0-9-9-9h-27v-9q0-9-8-9h-63v71h63q8 0 8-9v-9h27q9 0 9-8z m0 142v-17q0-9-9-9h-27v-9q0-9-8-9h-63v71h63q8 0 8-9v-9h27q9 0 9-9z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>

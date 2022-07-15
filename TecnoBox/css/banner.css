@@ -1,0 +1,41 @@
+
+
+#banner{
+    margin-top: 50px;
+    margin-left: 30;
+    
+}
+
+#banner img{
+    width: 40%;
+    
+    
+    display:block;
+   
+    float: right;
+    top: 20px;
+    
+}
+
+section .contenedor{
+    margin-right: 120px;
+    float: right;
+    text-align: right;
+    padding-right: 100px;
+    
+    width: 67%;
+}
+
+#imagen{
+    padding-right: 300px;
+    
+}
+
+
+section .Productos{
+    padding-top: 40px;
+    
+}
+
+
+

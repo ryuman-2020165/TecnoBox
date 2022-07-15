@@ -1,0 +1,27 @@
+#productosPrincipal img {
+    width: 28%;
+    padding: 20px;
+}
+
+
+
+#productosPrincipal{
+    
+    text-align: center;
+}
+
+#productosPrincipal h3{
+    display: table-cell;
+   padding-left: 40%;
+   
+}
+
+
+
+.zoom{
+    transition: transform .2s;
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+}
